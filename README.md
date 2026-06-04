@@ -2,16 +2,16 @@
 
 **`FullStack Developer in progress`**
 
-## About Me
+About Me
 
-18 years old, based in Brazil.
-Working in IT, building automation solutions with Python and expanding into full-stack development.
-Gaining hands-on experience with PHP, JavaScript, HTML, and CSS through real-world business systems.
-Passionate about clean code, software architecture, and creating efficient, scalable solutions.
+- 18 years old, based in Brazil.
+- Working in IT, building automation solutions with Python and expanding into full-stack development.
+- Gaining hands-on experience with PHP, JavaScript, HTML, and CSS through real-world business systems.
+- Passionate about clean code, software architecture, and creating efficient, scalable solutions.
 
 
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
