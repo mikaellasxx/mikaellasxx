@@ -10,9 +10,9 @@ About Me
 - Passionate about clean code, software architecture, and creating efficient, scalable solutions.
 
 
+<br>
 
 ## 🤖 Linguagens e Tecnologias
-
 
 <img 
     align="left" 
@@ -87,5 +87,11 @@ About Me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br>
 
+<br>
 
+## GitHub Stats
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mikaellasxx&theme=dark&hide_border=&short_numbers=" alt="GitHub Streak" /></a>
+</p>
