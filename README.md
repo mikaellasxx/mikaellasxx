@@ -9,6 +9,8 @@ Working in IT, building automation solutions with Python and expanding into full
 Gaining hands-on experience with PHP, JavaScript, HTML, and CSS through real-world business systems.
 Passionate about clean code, software architecture, and creating efficient, scalable solutions.
 
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -85,22 +87,4 @@ Passionate about clean code, software architecture, and creating efficient, scal
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mikaellasxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellasxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
