@@ -2,7 +2,7 @@
 
 **`FullStack Developer in progress`**
 
-About Me
+## About Me
 
 - 18 years old, based in Brazil.
 - Working in IT, building automation solutions with Python and expanding into full-stack development.
@@ -12,7 +12,7 @@ About Me
 
 <br>
 
-## 🤖 Linguagens e Tecnologias
+## Languages ​​and Technologies
 
 <img 
     align="left" 
