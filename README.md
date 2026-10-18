@@ -1,14 +1,14 @@
 # 👩🏻‍💻 Mikaella Corrêa
 
-**`FullStack Developer in progress`**
+**`IT · Automation · Software Development`**
+
+Building solutions, automating processes and understanding how technology works — from infrastructure to code.
 
 ## About Me
 
-- 18 years old, based in Brazil.
-- Working in IT, building automation solutions with Python and expanding into full-stack development.
-- Gaining hands-on experience with PHP, JavaScript, HTML, and CSS through real-world business systems.
-- Passionate about clean code, software architecture, and creating efficient, scalable solutions.
+I'm an IT professional based in Brazil, interested in the intersection of software development, automation and infrastructure.
 
+I enjoy turning repetitive tasks into efficient workflows, exploring how systems communicate and building tools that solve real problems.
 
 <br>
 
